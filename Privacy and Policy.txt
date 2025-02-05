@@ -1,0 +1,39 @@
+Privacy Policy
+
+Effective Date: 2/5/2025
+
+Thank you for using Rolink! Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information while using our bot.
+
+1. Information We Collect
+
+User Data: We do not collect or store personal data such as names, emails, or messages.
+
+Server Data: Our bot may collect server-related data (server IDs, message content, user IDs) to provide necessary functionalities.
+
+Logs: We may store temporary logs for debugging and moderation purposes.
+
+2. How We Use Your Information
+
+To provide bot features such as moderation, commands, and other functionalities.
+
+To improve our services and fix bugs.
+
+To ensure compliance with Discord’s Terms of Service.
+
+3. Data Storage & Security
+
+We do not share, sell, or trade any collected data.
+
+Any stored data is deleted periodically or upon request.
+
+We take necessary measures to protect your data from unauthorized access.
+
+4. User Rights
+
+You can request the deletion of any stored data by contacting the bot owner.
+
+You can stop using the bot at any time by removing it from your server.
+
+5. Changes to This Policy
+
+We may update this Privacy Policy at any time. Users will be notified of significant changes.

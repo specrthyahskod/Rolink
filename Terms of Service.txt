@@ -1,0 +1,32 @@
+Terms of Service
+
+Effective Date: 2/5/2025
+
+By using Rolink, you agree to these Terms of Service. If you do not agree, please remove the bot from your server.
+
+1. Usage Rules
+
+You must follow Discord’s Terms of Service.
+
+Do not use the bot for illegal, harmful, or disruptive activities.
+
+We reserve the right to blacklist users or servers for violating rules.
+
+2. Bot Availability
+
+We do not guarantee 24/7 uptime.
+
+The bot may be discontinued or updated at any time without prior notice.
+
+3. Liability
+
+We are not responsible for any harm, data loss, or damages caused by using the bot.
+
+Users use the bot at their own risk.
+
+4. Changes to These Terms
+
+We may update these Terms at any time. Continued use of the bot implies acceptance of the latest version.
+
+For any questions, contact the bot owner (@Lunarlord74)on discord .
+
